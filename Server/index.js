@@ -27,7 +27,7 @@ const mysql = require('mysql2')
 const dataBase = mysql.createConnection({
     host:'127.0.0.1',
     user:'root',
-    password:'AGRAdiv12!',
+    password:'',
     database: 'HOSPITAL'
 });
 
